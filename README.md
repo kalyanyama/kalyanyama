@@ -39,7 +39,7 @@ I continuously explore **Redux, TypeScript, GraphQL, and SSR with Next.js** to s
 - **Bachelors of Degree** - Nishita Commerce and Science, Nizamabad, TG (2019 - 2022)  
 
 ## 🚀 Projects  
-🔹 [Vistargna](https://vistargna.com) – Tours & Travel Services  
+🔹 [Vistragna](https://vistragna.com) – Tours & Travel Services  
 🔹 [Devloperz](https://devloperz.com/) – Online Courses Platform  
 🔹 [Avyan IT](https://avyanit.com/) – IT Services Provider  
 🔹 [Grwo](https://grwo.in/) – Custom Web Solutions  
