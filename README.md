@@ -1,21 +1,62 @@
-# Hi, I'm Kalyan Yama 👋
+# 👋 Hi, I'm Kalyan Yama  
+**Full-Stack Developer | React.js | Node.js | Next.js**  
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Next.js**
-- 💻 I’m working on **[your projects]**
-- 📫 How to reach me: **[your email or LinkedIn]**
-- ⚡ Fun fact: **[something interesting about you]**
+🚀 Passionate about building scalable and efficient web applications with modern technologies.  
 
-## 🛠 Skills & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+## 👨‍💻 About Me  
+I am a **Full-Stack Developer** specializing in **React.js, Node.js, and Next.js**. I build high-performance web applications, including **e-commerce platforms, custom CMS solutions, and enterprise applications**. My expertise includes front-end frameworks, back-end APIs, and database management.  
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+I continuously explore **Redux, TypeScript, GraphQL, and SSR with Next.js** to stay ahead in modern development.  
 
-## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+## ⚡ Skills & Tech Stack  
+### Front-End:  
+- **React.js, Next.js, Tailwind CSS, Bootstrap, Material UI**  
+
+### Back-End:  
+- **Node.js, Express.js, REST APIs, GraphQL**  
+
+### Databases:  
+- **MySQL, MongoDB, SQL, ORMs (Sequelize, Mongoose)**  
+
+### Version Control & Deployment:  
+- **Git, GitHub, CPanel**  
+
+### UI/UX & Tools:  
+- **Figma, Canva, Styled Components**  
+
+## 💼 Work Experience  
+### 🚀 Freelance Full-Stack Developer (Oct 2023 – Present)  
+- Developed **custom web applications**, including **e-commerce platforms, CMS solutions, and business websites**  
+- Built **responsive UI** with React.js, Next.js, Tailwind CSS, and Material UI  
+- Developed **secure back-end architectures** with Node.js, Express.js, MySQL, and MongoDB  
+- Implemented **REST APIs, GraphQL, authentication (JWT), and state management (Redux)**  
+
+### 🏢 Internship Experience  
+- **Backend Developer** at [Shami Innovation & Technologies](https://shamiit.com/) (Aug 2023 – Oct 2023)  
+- **Full-Stack Developer** at [MalTech Solutions](http://maltech.co/) (Feb 2023 – Aug 2023)  
+
+## 🎓 Education  
+- **Bachelors of Degree** - Nishita Commerce and Science, Nizamabad, TG (2019 - 2022)  
+
+## 🚀 Projects  
+🔹 [Vistargna](https://vistargna.com) – Tours & Travel Services  
+🔹 [Devloperz](https://devloperz.com/) – Online Courses Platform  
+🔹 [Avyan IT](https://avyanit.com/) – IT Services Provider  
+🔹 [Grwo](https://grwo.in/) – Custom Web Solutions  
+🔹 [Jobskadda](https://jobskadda.com/) – Job & Talent Platform  
+🔹 [Unesk](https://unesk.com/) – Modern Chat Application  
+🔹 [Aivsait](https://aivsait.com/) – Expert Consultation Services  
+🔹 [Grammina Seva](https://grameenasevakendra.com/) – PAN Card Registration  
+🔹 [Seetharam Jewellers](https://seetharamjewellers.in/) – Admin Data Management  
+🔹 [ABC-LLC](https://abc-llc.vercel.app/) – Contracting Solutions  
+🔹 [Magicblooms](https://magicblooms-n929.vercel.app/) – Floral & Event Decor  
+
+## 📫 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-kalyanyama-181717?style=flat&logo=github)](https://github.com/kalyanyama)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Yama-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyanyama)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-kalyanyama.com-ff4088?style=flat&logo=web)](https://kalyanyama.com/)  
+📧 **Email:** [kalyannyama@gmail.com](mailto:kalyannyama@gmail.com)  
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Happy coding! 🚀  
