@@ -31,10 +31,6 @@ I continuously explore **Redux, TypeScript, GraphQL, and SSR with Next.js** to s
 - Developed **secure back-end architectures** with Node.js, Express.js, MySQL, and MongoDB  
 - Implemented **REST APIs, GraphQL, authentication (JWT), and state management (Redux)**  
 
-### 🏢 Internship Experience  
-- **Backend Developer** at [Shami Innovation & Technologies](https://shamiit.com/) (Aug 2023 – Oct 2023)  
-- **Full-Stack Developer** at [MalTech Solutions](http://maltech.co/) (Feb 2023 – Aug 2023)  
-
 ## 🎓 Education  
 - **Bachelors of Degree** - Nishita Commerce and Science, Nizamabad, TG (2019 - 2022)  
 
